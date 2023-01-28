@@ -1,3 +1,34 @@
+/*Write a program to define user defined functions
+for arithmetic 1.Addition, 2.Subtraction, 3.Multiplication,
+4.Division and 5.Remineder.
+
+input a,b and option(1/2/3/4/5).
+
+test case 1:
+input=1 
+15 20
+output=35
+
+test case 2:
+input=2
+15 20
+output=-5
+
+test case 3:
+input=3
+15 20
+output=300
+
+test case 4:
+input=4
+15 20
+output=0.75
+
+test case 5:
+input=5
+155 20
+output=15
+*/
 #include <stdio.h>                       
 
 int add(int a,int b){
